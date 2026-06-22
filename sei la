@@ -1,0 +1,18 @@
+cd ~/Downloads
+
+
+
+
+tar -xf tor-browser-linux-x86_*.tar.xz
+cd tor-browser
+./start-tor-browser.desktop
+./Browser/start-tor-browser
+
+
+
+
+
+
+
+
+
